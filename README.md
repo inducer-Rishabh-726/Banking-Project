@@ -1,10 +1,5 @@
-# Banking-Project
-Horizon is a modern banking SaaS platform for secure account management, transactions, insights, and financial services integration.
-
 # 🏦 Horizon - Modern Banking Platform
-
 ---
-
 ## 🌟 Overview
 
 **Horizon** is a cutting-edge financial SaaS platform that revolutionizes personal banking management. Built with modern web technologies, it provides users with a comprehensive dashboard to manage their finances, connect multiple bank accounts, track transactions, and transfer money securely.
@@ -87,7 +82,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/adrianhajdin/banking.git
+   git clone https://github.com/yourusername/banking.git
    cd banking
    ```
 
@@ -250,34 +245,20 @@ We welcome contributions from the community! Here's how you can help:
 
 If you encounter issues:
 
-1. **Check the [Issues](https://github.com/adrianhajdin/banking/issues)** for known problems and solutions
+1. **Check the [Issues](https://github.com/yourusername/banking/issues)** for known problems and solutions
 2. **Join our community** for real-time support and discussions
 3. **Create a new issue** if you can't find a solution
 
-## 📄 License
+## 🙏 Acknowledgments
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
- 🙏 Acknowledgments
-
-- **JavaScript Mastery** - Original tutorial and educational content
 - **Plaid** - Banking API and financial data services
 - **Dwolla** - Payment processing infrastructure
 - **Appwrite** - Backend services and database
 - **Vercel** - Hosting and deployment platform
 - **Open Source Community** - All contributors and supporters
 
- 📞 Support & Community
-
-- 🌐 **Website**: [JavaScript Mastery](https://jsmastery.pro)
-- 📺 **YouTube**: Follow along with video tutorials
-- 💬  Discord : Join our community for discussions and help
-- 🐦  Twitter : Get updates and announcements
-- 📧  Email   : Contact us for enterprise support
-
-
+---
 
 <div align="center">
-  <p>Built with ❤️ by <strong>Adrian Hajdin</strong> and the <strong>JavaScript Mastery</strong> community</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
