@@ -258,7 +258,3 @@ If you encounter issues:
 - **Open Source Community** - All contributors and supporters
 
 ---
-
-<div align="center">
-  <p>⭐ Star this repo if you found it helpful!</p>
-</div>
